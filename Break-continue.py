@@ -11,3 +11,15 @@ for i in range(10):
         print(num)
     else:
         print("Loops excuted successfully")
+
+
+        #Escape Sequence charater ---->
+print("I am learning python\n and i'm doing well!")              
+ 
+#  output---> I'm learning python 
+#             and i'm doing well!
+
+print("I'm very \" creative\" girl")
+#---> I'm very "creative" girl
+print("hello user","hi priti","hi prithvi",sep="~") #by using sep we can separate multiple string's given in one print statement
+print("hello user","hi priti","hi prithvi",end="~")
