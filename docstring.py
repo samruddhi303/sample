@@ -1,4 +1,4 @@
-#docstring-->
+#docstring-->//doc string is used to 
 
 def square(n):
     '''Take a number and returns a square of number'''
