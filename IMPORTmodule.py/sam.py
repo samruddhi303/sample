@@ -3,4 +3,4 @@ def Welcome():
     print(__name__)
     if __name__ == "__main__":
         Welcome()
-        #if you import it as a module into another script and call the main function from imported module,it will not output anything
+        #if you import it as a module into another script and call the main function from imported module,it will not output anything            
