@@ -1,0 +1,3 @@
+import sam
+
+sam.Welcome()
